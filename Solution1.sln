@@ -6,6 +6,7 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{59F2671C-166F-41D5-A0DB-CCEAABEED271}"
 	ProjectSection(SolutionItems) = preProject
 		text1.txt = text1.txt
+		XMLFile1.xml = XMLFile1.xml
 	EndProjectSection
 EndProject
 Global
